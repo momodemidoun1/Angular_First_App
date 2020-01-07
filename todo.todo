@@ -1,0 +1,18 @@
+@Components
+    ☐ a root component holding our whole application @created(20-01-06 19:12)
+    ☐ a header component holding our navbar @created(20-01-06 19:13)
+
+Note :: all these features are components or sub components.
+
+@Features
+    ☐ shopping List @created(20-01-06 19:11)
+        ☐ Shopping List @created(20-01-06 19:16)
+        ☐ Shopping List Edit @created(20-01-06 19:17)
+    ☐ Recipe Book @created(20-01-06 19:15)
+        ☐ Recipe List @created(20-01-06 19:18) 
+        ☐ Recipe Item @created(20-01-06 19:18)
+        ☐ Recipe Detail @created(20-01-06 19:19)
+
+@Models (Database)
+☐ Ingredients @created(20-01-06 20:02)
+☐  Recipe @created(20-01-06 20:02)

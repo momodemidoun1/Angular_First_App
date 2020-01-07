@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+.btn {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: #fff;
+  background-color: rgb(17, 166, 235);
+  border: 1px solid rgb(8, 61, 160);
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: rgb(17, 166, 235);
+  cursor: pointer;
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+  background-color: rgb(17, 166, 235);
+  border: 1px solid rgb(8, 61, 160);
+  color: #fff;
+}
